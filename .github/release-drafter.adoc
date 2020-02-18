@@ -12,7 +12,7 @@ This page provides some usage information.
 == Usage
 
 Release drafter can be used as a GitHub Application or as a GitHub action.
-It is up to the plugin maintainers to chose the way how they use Release Drafter.
+It is up to the plugin maintainers to choose the way how they use Release Drafter.
 The only notable difference is that GitHub Application does not produce logs which would be available to plugin maintainers,
 and hence it might be difficult to troubleshoot errors if they occur.
 
